@@ -5,5 +5,7 @@ public class music{
         int x=in.nextInt();
         int y=in.nextInt();
         System.out.println(x+y);
+
+        System.out.println("Hi");
     }
 }
